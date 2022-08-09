@@ -21,4 +21,4 @@ npm run lint
 ```
 
 Demonstration:
-![all text](https://github.com/Arthur410/typinGame/blob/master/preview.gif)
+![all text](https://github.com/Arthur410/to-do-app/blob/master/todoDemonstration.gif)
