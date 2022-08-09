@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Demonstration:
+![all text](https://github.com/Arthur410/typinGame/blob/master/preview.gif)
